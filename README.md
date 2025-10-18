@@ -1,6 +1,5 @@
 # PulseLab
 
-> Bitcoin Price Prediction - done in style
 
 ## About The Project
 
